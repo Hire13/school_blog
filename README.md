@@ -2,14 +2,12 @@
 
 ## 前端
 
-切换至blog目录下执行
+切换blog目录下执行
 
 ```
 npm install
 ```
-
 安装前端对应依赖
-
 修改main.js文件下的baseURL
 
 ```
@@ -50,8 +48,4 @@ spring:
     username: 
     password: 
 ```
-
 运行后台项目时需要开启redis
-
-
-
